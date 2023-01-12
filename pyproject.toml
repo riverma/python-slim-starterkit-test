@@ -9,6 +9,6 @@ build-backend = "setuptools.build_meta"
 
 [tool.setuptools_scm]
 # [MODIFY FOR YOUR PROJECT] ###################################################
-write_to = "slim_sample_project/version.py"
+write_to = "rverma_test_proj_393u295u29/version.py"
 # [END MODIFY FOR YOUR PROJECT] ##############################################
 write_to_template = "__version__ = '{version}'\n"
